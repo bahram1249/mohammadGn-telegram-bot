@@ -1,4 +1,4 @@
-const token = '733624373:AAFkC2QIIC7vJgnX9Wk1Lk1FO5KAeHJ_ct8';
+const token = 'Your Token';
 const url = 'https://api.telegram.org/bot' + token;
 const webAppUrl = 'https://mamadgn-502a7.firebaseapp.com/gkljsdofieroipomcxjljdsoprwekjxvojpowerjklsdfoewrlkjsdfhierGn';
 const request = require('request');
